@@ -1,2 +1,2 @@
 # scheduling_macros
-macros used in Google Workspace for streamlinining administrative tasks.
+Macros used in Google Workspace for streamlinining administrative tasks.
